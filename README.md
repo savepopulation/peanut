@@ -1,5 +1,5 @@
 # peanut
-A minimal Android library to handle heavy works in worker threads 
+A minimal Android library to handle heavy works in worker threads easily.
 
 ## How to use?
 It's really easy to use.<br>
