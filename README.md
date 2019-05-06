@@ -1,5 +1,6 @@
 # peanut
-A minimal Android library to handle heavy works in worker threads easily.
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-peanut-green.svg?style=flat )]( https://android-arsenal.com/details/1/7652 )
+<br>A minimal Android library to handle heavy works in worker threads easily.
 
 ## How to use?
 It's really easy to use.<br>
